@@ -1,0 +1,29 @@
+{
+    "name": "meal-finder",
+    "version": "1.0.0",
+    "description": "A recipe finding web application",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/niloyKGhosh/meal-finder.git"
+    },
+    "author": "Muhtadi Zubair, Niloy Kumar Ghosh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/niloyKGhosh/meal-finder/issues"
+    },
+    "homepage": "https://github.com/niloyKGhosh/meal-finder#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "morgan": "^1.10.0"
+    }
+}
