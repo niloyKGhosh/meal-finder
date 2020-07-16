@@ -1,1 +1,1 @@
-# Meal Finder - A recipe finding application
+# Meal Finder - A recipe finding web application
